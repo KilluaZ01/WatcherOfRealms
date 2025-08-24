@@ -1,0 +1,62 @@
+{
+    "operations": [
+        {
+            "timing": 0,
+            "operationId": "ImeClipboard",
+            "text": "Pelofroso23!"
+        },
+        {
+            "timing": 3455,
+            "operationId": "PutMultiTouch",
+            "points": [
+                {
+                    "id": 1,
+                    "x": 11556,
+                    "y": 7428,
+                    "state": 1
+                }
+            ]
+        },
+        {
+            "timing": 3459,
+            "operationId": "PutMultiTouch",
+            "points": []
+        },
+        {
+            "timing": 3679,
+            "operationId": "PutMultiTouch",
+            "points": [
+                {
+                    "id": 1,
+                    "x": 11556,
+                    "y": 7428,
+                    "state": 0
+                }
+            ]
+        },
+        {
+            "timing": 3683,
+            "operationId": "PutMultiTouch",
+            "points": []
+        }
+    ],
+    "recordInfo": {
+        "loopType": 0,
+        "loopTimes": 1,
+        "circleDuration": 9007,
+        "loopInterval": 0,
+        "loopDuration": 0,
+        "accelerateTimes": 1,
+        "accelerateTimesEx": 1,
+        "recordName": "",
+        "createTime": "2025-06-26 04:33:21",
+        "playOnBoot": false,
+        "rebootTiming": 0,
+        "closeTiming": 0,
+        "resolutionWidth": 1600,
+        "resolutionHeight": 900,
+        "randomTouch": false,
+        "shortkey": 0,
+        "modifyKey": 0
+    }
+}

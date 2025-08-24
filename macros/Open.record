@@ -1,0 +1,62 @@
+{
+    "operations": [
+        {
+            "timing": 1,
+            "operationId": "ImeClipboard",
+            "text": "    # Step 6: Input guest names for all instances"
+        },
+        {
+            "timing": 4512,
+            "operationId": "PutMultiTouch",
+            "points": [
+                {
+                    "id": 1,
+                    "x": 9900,
+                    "y": 2580,
+                    "state": 1
+                }
+            ]
+        },
+        {
+            "timing": 4521,
+            "operationId": "PutMultiTouch",
+            "points": []
+        },
+        {
+            "timing": 4726,
+            "operationId": "PutMultiTouch",
+            "points": [
+                {
+                    "id": 1,
+                    "x": 9900,
+                    "y": 2580,
+                    "state": 0
+                }
+            ]
+        },
+        {
+            "timing": 4729,
+            "operationId": "PutMultiTouch",
+            "points": []
+        }
+    ],
+    "recordInfo": {
+        "loopType": 0,
+        "loopTimes": 1,
+        "circleDuration": 9134,
+        "loopInterval": 0,
+        "loopDuration": 0,
+        "accelerateTimes": 1,
+        "accelerateTimesEx": 1,
+        "recordName": "",
+        "createTime": "2025-06-27 11:54:27",
+        "playOnBoot": false,
+        "rebootTiming": 0,
+        "closeTiming": 0,
+        "resolutionWidth": 1280,
+        "resolutionHeight": 720,
+        "randomTouch": false,
+        "shortkey": 90,
+        "modifyKey": 2
+    }
+}

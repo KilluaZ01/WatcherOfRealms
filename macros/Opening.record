@@ -1,0 +1,62 @@
+{
+    "operations": [
+        {
+            "timing": 0,
+            "operationId": "ImeClipboard",
+            "text": "    time.sleep(15)  # Increased delay to ensure game loads fully\r\n"
+        },
+        {
+            "timing": 3255,
+            "operationId": "PutMultiTouch",
+            "points": [
+                {
+                    "id": 1,
+                    "x": 9840,
+                    "y": 2895,
+                    "state": 1
+                }
+            ]
+        },
+        {
+            "timing": 3255,
+            "operationId": "PutMultiTouch",
+            "points": []
+        },
+        {
+            "timing": 3433,
+            "operationId": "PutMultiTouch",
+            "points": [
+                {
+                    "id": 1,
+                    "x": 9840,
+                    "y": 2895,
+                    "state": 0
+                }
+            ]
+        },
+        {
+            "timing": 3438,
+            "operationId": "PutMultiTouch",
+            "points": []
+        }
+    ],
+    "recordInfo": {
+        "loopType": 0,
+        "loopTimes": 1,
+        "circleDuration": 8664,
+        "loopInterval": 0,
+        "loopDuration": 0,
+        "accelerateTimes": 1,
+        "accelerateTimesEx": 1,
+        "recordName": "",
+        "createTime": "2025-06-26 22:57:11",
+        "playOnBoot": false,
+        "rebootTiming": 0,
+        "closeTiming": 0,
+        "resolutionWidth": 1280,
+        "resolutionHeight": 720,
+        "randomTouch": false,
+        "shortkey": 90,
+        "modifyKey": 2
+    }
+}
