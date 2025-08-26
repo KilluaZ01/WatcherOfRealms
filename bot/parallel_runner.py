@@ -131,6 +131,7 @@ def run_batch(batch_num, start_guest_index, instances_per_batch, log_func, base_
         ("Swipe!", swipe_macro, (1095, 655, 600, 285), 3),
         ("Swipe!", swipe_macro, (600, 285, 785, 285), 20),
         ("2x", tap_macro, (1160, 40), 5),
+        ("2x", tap_macro, (1160, 40), 5),
         ("2x", tap_macro, (1160, 40), 90),
         ("Global", tap_macro, (585, 335), 10),
         ("Next", tap_macro, (1130, 655), 5),
